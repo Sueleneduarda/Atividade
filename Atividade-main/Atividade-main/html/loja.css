@@ -1,0 +1,41 @@
+html, body{
+    font-family: cursive;
+    color: rgb(100, 26, 97);
+    width: 100%;
+    height: 100%;
+
+    
+}
+.busca input {
+    vertical-align: middle;
+}
+    
+.imglo{
+    width:150px;
+    right:150px;
+ }
+ h1{
+    font-family: fantasy;
+    font-size: xx-large;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    background-color: rgb(238, 118, 6);
+    width: 100%;
+  
+ 
+
+ }
+.item{ 
+    font-family: initial;
+    color: rgb(100, 26, 97);
+
+}
+
+
+.painel li:hover{
+    box-shadow:10px 10px 5px rgb(5, 40, 21);
+    transition: 0,7s;
+    background-color: rgba(109, 173, 90, 0.8);
+    transform: scale(1.2);
+    rotate: -5deg;
+}
