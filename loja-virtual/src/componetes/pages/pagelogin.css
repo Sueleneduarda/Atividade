@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+  
+  }
+  h2{
+    color: rgb(230, 122, 0);
+    font-size: 30px;
+   }
+  
+  .Container {
+    width: 30vw;
+    height: 50vh;
+    text-align: center;
+   background-color: rgb(166, 89, 230);
+    border-radius: 10px;
+    display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+  
+  }
+  
+  .containerMain {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(240, 108, 0);
+    
+    display: flex;
+  }
+   
+  #usuario{
+    background-color: rgb(166, 89, 230);
+    width: 20vw;
+    height: 20vh;
+   margin-top: 35px;
+   float: left;
+   align-items: center;
+   flex-direction: column;
+   padding: 15px;
+   margin: 35px 0;
+   border-radius: 10px;
+  
+  }
+  
+  .Login{
+    font-size: large;
+    margin-top: 20px;
+    text-align: center;
+  }
+  .Button{
+    width: 30vw;
+  }
+   
+  h2{
+    float: left;
+  }
+  .Login{
+    color: orange;
+  }
+    
